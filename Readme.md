@@ -17,9 +17,17 @@ In this article I have discussed about CSS-Position and I have explained with ex
 ## 🔗 Link to Article 3
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://pritcode10.hashnode.dev/css-position)
 ## Article 4
-In this article I have discussed about CSS-Flexbox with examples of each and every property. Read this article one time and try to understand CSS-flexbox with coding examples which I have embedde to it.
+In this article I have discussed about CSS-Flexbox with examples of each and every property. Read this article and try to understand CSS-flexbox with coding examples which I have embedded to it.
 ## 🔗 Link to Article 4
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://pritcode10.hashnode.dev/css-layout-flexbox)
+## Article 5
+In this article I have discussed about CSS-grid with examples of each and every property. Read this article and try to understand CSS-grid with coding examples which I have embedded to it. This article is divided into two parts.
+## 🔗 Link to Article 5
+### Part 1:-
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://pritcode10.hashnode.dev/my-take-on-css-grid)
+
+### Part 2:-
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://pritcode10.hashnode.dev/my-take-on-css-grid)
 
 ## 🔗 Contact me @
 Links to contact me
