@@ -27,7 +27,7 @@ In this article I have discussed about CSS-grid with examples of each and every 
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://pritcode10.hashnode.dev/my-take-on-css-grid)
 
 ### Part 2:-
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://pritcode10.hashnode.dev/my-take-on-css-grid)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://pritcode10.hashnode.dev/my-take-on-css-grid-part-2)
 
 ## 🔗 Contact me @
 Links to contact me
