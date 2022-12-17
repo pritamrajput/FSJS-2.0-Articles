@@ -29,6 +29,13 @@ In this article I have discussed about CSS-grid with examples of each and every 
 ### Part 2:-
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://pritcode10.hashnode.dev/my-take-on-css-grid-part-2)
 
+## Article 6
+In this article I have discussed about the basics of CSS-media query like what is media query, how we write media query, how we decide breakpoints.So please go through the artcle 
+
+## 🔗 Link to Article 6
+### Part 1:-
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://pritcode10.hashnode.dev/lets-discuss-basics-of-css-media-query)
+
 ## 🔗 Contact me @
 Links to contact me
 
