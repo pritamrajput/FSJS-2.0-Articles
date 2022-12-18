@@ -35,6 +35,12 @@ In this article I have discussed about the basics of CSS-media query like what i
 ## 🔗 Link to Article 6
 ### Part 1:-
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://pritcode10.hashnode.dev/lets-discuss-basics-of-css-media-query)
+## Article 7
+In this article I have discussed about the basics of CSS-media query like what is media query, how we write media query, how we decide breakpoints.So please go through the artcle 
+
+## 🔗 Link to Article 7
+### Part 1:-
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://pritcode10.hashnode.dev/lets-discuss-basics-of-css-media-query)
 
 ## 🔗 Contact me @
 Links to contact me
